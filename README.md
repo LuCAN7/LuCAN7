@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... My Portfolio
+- 🌱 I’m currently learning ... React/ Next JS
+- 🤔 I’m looking for help with ... Server-side JS
+- 💬 Ask me about ... Anything
+
+
 <!--
 **LuCAN7/LuCAN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
